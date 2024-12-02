@@ -20,7 +20,9 @@ The primary objective of this project is to develop a predictive model that can 
 
 Target Output:
 The target output of this project is a machine learning model that can:
+
 Accurately predict the diabetes risk for new individuals.
+
 Identify key factors that contribute to diabetes risk.
 Assist healthcare professionals in early detection and prevention of diabetes.
 Key Metrics to Evaluate Performance:
