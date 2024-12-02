@@ -18,21 +18,36 @@ Goal of the Project
 
 The primary objective of this project is to develop a predictive model that can accurately classify individuals as having a high or low risk of developing diabetes based on various health indicators provided in the CDC Diabetes Health Indicators dataset.
 
-The dataset contains a wealth of information on various health indicators, including:
+Key Features:
 
-Demographic information: Age, sex, race, ethnicity, income, and education level.
+Demographic Information:
+Age
+Sex
+Race
+Ethnicity
+Income
+Education Level
 
-Health behaviors: Smoking, alcohol consumption, physical activity, and dietary habits.
+Health Behaviors:
+Smoking
+Alcohol Consumption
+Physical Activity
+Fruit and Vegetable Consumption
 
-Medical conditions: High blood pressure, high cholesterol, stroke, heart disease, and mental health conditions.
+Medical Conditions:
+High Blood Pressure
+High Cholesterol
+Stroke
+Heart Disease
+Mental Health
+Physical Health
 
-Healthcare access: Health insurance coverage and access to healthcare.
+Healthcare Access:
+Health Insurance Coverage
+Access to Healthcare
 
-Diabetes status: A categorical variable indicating whether an individual is healthy, pre-diabetic, or diabetic.
-
-Data Features and Types:
-
-The dataset consists of a mix of categorical and numerical features:
+Diabetes Status:
+A categorical variable indicating whether an individual is healthy, pre-diabetic, or diabetic
 
 Categorical Features: Sex, race, ethnicity, smoking status, alcohol consumption, physical activity, health insurance coverage, and diabetes status.
 
